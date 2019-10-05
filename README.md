@@ -50,10 +50,10 @@ $ mvn spring-boot:run
 ![Employee Information](https://github.com/DAL185/MicroHR/blob/master/employee%20information.png)
 
 * Training Management
-![Training Management](https://github.com/DAL185/Micro-HR-System/blob/master/HR%20screenshot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8B%E5%8D%885.24.02.png)
+![Training Management](https://github.com/DAL185/MicroHR/blob/master/training%20management.png)
 
 * Salary Management
-![Salary Management](https://github.com/DAL185/Micro-HR-System/blob/master/HR%20screenshot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8B%E5%8D%885.24.15.png)
+![Salary Management](https://github.com/DAL185/MicroHR/blob/master/salary%20management.png)
 
 * Permission Management
-![Permission Management](https://github.com/DAL185/Micro-HR-System/blob/master/HR%20screenshot/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-09-27%20%E4%B8%8B%E5%8D%885.24.29.png)
+![Permission Management](https://github.com/DAL185/MicroHR/blob/master/permission%20management.png)
